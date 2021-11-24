@@ -15,7 +15,7 @@
 * [DAO Vault](protocol-modules/dao-vault.md)
 * [Core](protocol-modules/core.md)
 * [Strategies](protocol-modules/strategies.md)
-* [Fee Managar](protocol-modules/fee-managar.md)
+* [Fee Manager](protocol-modules/fee-manager.md)
 * [Collateral Manager](protocol-modules/collateral-manager.md)
 * [Oracles](protocol-modules/oracles.md)
 * [Treasury](protocol-modules/treasury.md)
