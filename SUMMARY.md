@@ -22,6 +22,7 @@
 * [Stable Coin Generator](protocol-modules/stable-coin-generator.md)
 * [Liquidation Manager](protocol-modules/liquidation-manager.md)
 * [Application Manager](protocol-modules/application-manager.md)
+* [Proxies](protocol-modules/proxies.md)
 
 ## Governance
 
