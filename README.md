@@ -1,6 +1,7 @@
 ---
 description: Welcome to the Standard Developers Documentation!
 coverY: 0
+cover: .gitbook/assets/DOCUMENTATION-BANNER.png
 ---
 
 # Introdcution
@@ -13,7 +14,7 @@ coverY: 0
 
 #### Purpose
 
-With the Standard Protocol you can generate a "stable" cryptocurrencies backed by deposited assets in so called "Smart Vaults". Smart Vaults are the bread and butter of the protocol, combining functionality and usability into one accessible user interface to provide an easy to use solution to hedge against inflation and vitality of the currency markets.
+With the Standard Protocol you can generate a "stable" cryptocurrencies backed by deposited assets in so called "Smart Vaults". Smart Vaults are the bread and butter of the protocol, combining functionality and usability into one accessible user interface to provide an easy to use solution to hedge against inflation and volatility of the currency markets.
 
 #### How is this achieved?
 
