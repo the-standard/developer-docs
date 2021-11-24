@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Introdcution](README.md)
+* [Introduction](README.md)
 
 ## Token Contracts
 
