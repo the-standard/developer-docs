@@ -4,7 +4,7 @@ description: >-
   blockchain
 ---
 
-# Smart Vault
+# 🗝 Smart Vault
 
 ### Introduction&#x20;
 

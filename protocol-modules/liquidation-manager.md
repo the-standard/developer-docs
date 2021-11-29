@@ -1,4 +1,4 @@
-# Liquidation Manager
+# ☯ Liquidation Manager
 
 ## Overview
 

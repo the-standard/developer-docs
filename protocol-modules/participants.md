@@ -1,4 +1,4 @@
-# Participants
+# 🧑💻 Participants
 
 ## Defintion
 
@@ -106,7 +106,7 @@ The `Native Custodian Framework` Protocol has built-in functions that enable nat
 
 Oracles are data feeds that connect Ethereum to off-chain, real-world information so that you can query data in your smart contracts. For example, prediction market dapps use oracles to settle payments based on events. A prediction market may ask you to bet your ETH on who will become the next president of the United States. They'll use an oracle to confirm the outcome and payout to the winners.
 
-The Standard will use multiple oracles, [read more in the oracle section.](oracles.md)
+The Standard will use multiple oracles, [read more in the oracle section.](../protocol-elements/oracles.md)
 
 ## 3rd Party apps/modules (dApps)
 

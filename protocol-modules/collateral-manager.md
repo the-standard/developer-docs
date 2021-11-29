@@ -1,4 +1,4 @@
-# Collateral Manager
+# 💶 Collateral Manager
 
 ## Introduction
 

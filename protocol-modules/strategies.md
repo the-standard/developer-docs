@@ -1,4 +1,4 @@
-# Strategies
+# 📔 Strategies
 
 ### Introduction
 

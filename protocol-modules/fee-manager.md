@@ -1,4 +1,4 @@
-# Fee Managar
+# 🍕 Fee Manager
 
 {% hint style="info" %}
 These are currently planned fee rules approved by the DAO, subject to change if this does not appear to be a viable strategy going forward

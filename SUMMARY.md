@@ -2,27 +2,30 @@
 
 * [Introduction](README.md)
 
+## Protocol Modules
+
+* [🧑💻 Participants](protocol-modules/participants.md)
+* [🗝 Smart Vault](protocol-modules/smart-vault.md)
+* [🇺🇳 DAO Vault](protocol-modules/dao-vault.md)
+* [🎯 Core](protocol-modules/core.md)
+* [📔 Strategies](protocol-modules/strategies.md)
+* [💶 Collateral Manager](protocol-modules/collateral-manager.md)
+* [🍕 Fee Manager](protocol-modules/fee-manager.md)
+* [☯ Liquidation Manager](protocol-modules/liquidation-manager.md)
+* [🈸 Application Manager](protocol-modules/application-manager.md)
+
+## Protocol Elements
+
+* [🧙♀ Oracles](protocol-elements/oracles.md)
+* [💰 Treasury](protocol-elements/treasury.md)
+* [🎆 Proxies](protocol-elements/proxies.md)
+* [💠 Stable Coin Generator](protocol-elements/stable-coin-generator.md)
+
 ## Token Contracts
 
 * [Token Overview](token-contracts/token-overview.md)
 * [The Standard Token (TST)](token-contracts/the-standard-token-tst.md)
 * [The Stable Euro (S-EUR)](token-contracts/the-stable-euro-s-eur.md)
-
-## Protocol Modules
-
-* [Participants](protocol-modules/participants.md)
-* [Smart Vault](protocol-modules/smart-vault.md)
-* [DAO Vault](protocol-modules/dao-vault.md)
-* [Core](protocol-modules/core.md)
-* [Strategies](protocol-modules/strategies.md)
-* [Fee Manager](protocol-modules/fee-manager.md)
-* [Collateral Manager](protocol-modules/collateral-manager.md)
-* [Oracles](protocol-modules/oracles.md)
-* [Treasury](protocol-modules/treasury.md)
-* [Stable Coin Generator](protocol-modules/stable-coin-generator.md)
-* [Liquidation Manager](protocol-modules/liquidation-manager.md)
-* [Application Manager](protocol-modules/application-manager.md)
-* [Proxies](protocol-modules/proxies.md)
 
 ## Governance
 

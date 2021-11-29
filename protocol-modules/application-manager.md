@@ -1,4 +1,4 @@
-# Application Manager
+# 🈸 Application Manager
 
 Manages applications developed by 3rd parties to plug into the protocol. Applications have to be approved to be able to be selected from the Smart Vault interface. However applications in general do NOT need approval to be available for users since its decentralised system. The DAO however will vote on applications or other modules to be used in or with strategies to offer the users of the protocol a wide range of services.&#x20;
 

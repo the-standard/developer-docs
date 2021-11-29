@@ -1,4 +1,4 @@
-# Stable Coin Generator
+# 💠 Stable Coin Generator
 
 ## Introduction
 

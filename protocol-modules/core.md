@@ -1,4 +1,4 @@
-# Core
+# 🎯 Core
 
 The Standard Core is a collections of all active contracts/modules forming the entirely of the Standard Protocol that makes the protocol stand on its own including
 
